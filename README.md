@@ -84,17 +84,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rafiu-devops&theme=dark&hide_border=true&layout=compact" />
 </p>
 
----
-
-## 🔝 Top Contributed Repo
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafiu-devops&color=blue" />
-</p>
-
 <p align="center">
   ⚡ "Code. Create. Repeat."
 </p>

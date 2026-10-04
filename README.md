@@ -1,11 +1,11 @@
 # About Me:
 
 
-<h1 align="center">Hi, iT's Me Rafiu DevOps</h1>
-<h3 align="center">Web & App Developer</h3>
+<h1 align="center">Hi, iT's Me TheRafiuDev</h1>
+<h3 align="center">Full Stack Web & App Developer</h3>
 
 <p align="center">
-  Building modern web apps, mobile experiences & pixel perfect UIs.
+  Building modern web apps, mobile experiences & system softwares tailored to your business.
 </p>
 
 ---
@@ -14,26 +14,18 @@
 
 ##  What I'm Doing
 
-* 🔭 Building **React & Flutter Applications**
-* 🌱 Learning **Next.js & Scalable Frontend Architecture**
-* 🎯 Focused on **UI/UX & Smooth Animations**
-
----
-
-## Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,firebase,java,tailwind,js,git,github,vscode,figma" />
-</p>
+*  Building **React & Flutter Applications**
+*  Learning **Next.js & Scalable Frontend Architecture**
+*  Focused on **UI/UX & Smooth Animations**
 
 ---
 
 ## Current Focus
 
-- 📱 Cross Platform App Development  
-- 🌐 Modern Responsive Websites  
-- 🎨 Figma to Real UI  
-- ⚡ Firebase Powered Apps  
+-  Cross Platform App Development  
+-  Modern Responsive Websites  
+-  Figma to Real UI  
+-  Firebase Powered Apps  
 
 ---
 
@@ -72,7 +64,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=rafiu-devops&theme=dark&hide_border=true" height="170"/>
